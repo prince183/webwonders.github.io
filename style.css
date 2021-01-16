@@ -1,0 +1,37 @@
+# webwonder.github.io
+body{
+    background-image: url('bi.jpg');
+    background-image: no-repeat;
+    width: 100%;
+    background-repeat: repeat-x;
+    
+   }
+ .left{      
+   color: white;
+   position: fixed;
+   display: inline-block;
+   margin-top: 1px;
+   font-size: 50px;
+   border-left: 10px solid green;
+   border-bottom: 7px solid rgb(149, 149, 180);
+   border-radius: 20px;
+   text-decoration: none;
+   
+}
+.quote{
+    display: inline-block;
+    border-left: 2px solid green;
+    color: rgb(133, 209, 47);
+    font-size: 40px;
+    margin-top: 100px;
+    margin-right: 10%;
+    margin-left: 70%;
+}
+
+    
+
+
+a {
+    color: rgb(214, 143, 143);
+    text-decoration: none;
+}
