@@ -1,6 +1,6 @@
 # webwonder.github.io
 body{
-    background-image: url('bi.jpg');
+    background-image: url('./bi.jpg');
     background-image: no-repeat;
     width: 100%;
     background-repeat: repeat-x;
