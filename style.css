@@ -1,5 +1,5 @@
 # webwonder.github.io
-body{
+.container{
     background-image: url('./bi.jpg');
     background-image: no-repeat;
     width: 100%;
